@@ -1,0 +1,6 @@
+# Entorno para la actividad TC5061. Python 3.13 en el equipo del estudiante.
+mlflow==3.16.1
+pandas>=2.2,<4.0
+scikit-learn>=1.5,<2.0
+matplotlib>=3.9,<4.0
+numpy>=2.0,<3.0
